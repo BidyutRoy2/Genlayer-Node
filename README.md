@@ -34,14 +34,14 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
 ## 🛠️ Installation GenLayer Simulator
 
 ```
-$ npm install -g genlayer
-$ genlayer init
+npm install -g genlayer
+genlayer init
 ```
 
 To run genlayer again just run:
 
 ```
-$ genlayer up
+genlayer up
 ```
 
 After executing those commands a new tab will open in your browser with the GenLayer Simulator. Additional installation instructions can be found [here](https://docs.genlayer.com/simulator/installation)
